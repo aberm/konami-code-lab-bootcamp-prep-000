@@ -25,5 +25,4 @@ function init() {
     }
   };
   document.body.addEventListener('keydown', onKeyDownHandler);
-  return onKeyDownHandler(e);
 }
